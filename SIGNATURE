@@ -1,0 +1,157 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.60.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 45945c6871e8c5df520831dc2a1007fe67de864c MANIFEST
+SHA1 472c0c9e163ae5e279701541dca080151c94afc2 META.yml
+SHA1 4f1ba7eb104c8469e90b52218d434071434cf267 Makefile.PL
+SHA1 0760e46baace22811b7a3e77ec20df8011a24654 Multiplayer.pm
+SHA1 6dad0d7555eed30eec0d90337813bb67bb471114 README
+SHA1 fd5f3c4f0418efee3b9b16cf8c3902e8374909df inc/Module/Install.pm
+SHA1 7cd7c349afdf3f012e475507b1017bdfa796bfbd inc/Module/Install/Base.pm
+SHA1 ba186541bbf6439111f01fc70769cf24d22869bf inc/Module/Install/Can.pm
+SHA1 aaa50eca0d7751db7a4d953fac9bc72c6294e238 inc/Module/Install/Fetch.pm
+SHA1 3e83972921d54198d1246f7278f08664006cd65d inc/Module/Install/Makefile.pm
+SHA1 12bf1867955480d47d5171a9e9c6a96fabe0b58f inc/Module/Install/Metadata.pm
+SHA1 a615bb050ca0b2d79bfa0224addcb83019a53b09 inc/Module/Install/ReadmeFromPod.pm
+SHA1 3406c9015148c75406903e7382f8182613b5022a inc/Module/Install/Scripts.pm
+SHA1 a1ccb2a21d1118b1bed4f97bd31ebd7dfd8fe43c inc/Module/Install/Share.pm
+SHA1 f7ee667e878bd2faf22ee9358a7b5a2cc8e91ba4 inc/Module/Install/Win32.pm
+SHA1 8ed29d6cf217e0977469575d788599cbfb53a5ca inc/Module/Install/WriteAll.pm
+SHA1 79c1338cd22ea31ee687e5c8b24a4793c8b9cf25 socialcalc-multiplayer.pl
+SHA1 ec8b992869bac40affb2d5feab8d6ff2731ba81b socialcalc/Changes.txt
+SHA1 fed6cf66e48fc4b487536ea2fd7192488400e01d socialcalc/LEGAL.txt
+SHA1 cf2b05f1827c020d6ea7759580e201adcb870f4f socialcalc/LICENSE.txt
+SHA1 6f2def9a8761feb44cc65865ca61126cca7e5a41 socialcalc/README
+SHA1 18f966d905971c40580f86fdf53a676e9f94c1da socialcalc/SocialCalcServersideUtilities.pm
+SHA1 cdf8fc068c03b82066f45e81927a530a47b1199e socialcalc/TODO
+SHA1 afad6febc477b93acf4b71b6551b49f510f52d68 socialcalc/cpan/MANIFEST
+SHA1 472c0c9e163ae5e279701541dca080151c94afc2 socialcalc/cpan/META.yml
+SHA1 4f1ba7eb104c8469e90b52218d434071434cf267 socialcalc/cpan/Makefile.PL
+SHA1 0760e46baace22811b7a3e77ec20df8011a24654 socialcalc/cpan/Multiplayer.pm
+SHA1 1c3f1d7295789856488ca8d4919830769e98522d socialcalc/docs/hopscotch-yapctiny.txt
+SHA1 5c80a4137a24b748b342c241ce80ae9e22e06489 socialcalc/formatnumber2.js
+SHA1 7a6d3ef7be359dee81fcffdd239788c89e269d55 socialcalc/formula1.js
+SHA1 328e472721a93345801ed5533240eac2d1f8498c socialcalc/images/sc-1x1.gif
+SHA1 b58ae6b30adc1113d3dd770e19f8b33dd3a20cf1 socialcalc/images/sc-aligncenter.gif
+SHA1 7e66a3821ae8a6d79adf131c5c8730e2c444313c socialcalc/images/sc-alignleft.gif
+SHA1 51ce5155f85623225b32fd6b1035ae44eed34652 socialcalc/images/sc-alignright.gif
+SHA1 fddc4bd40b19364cf935f3884b650beb013ab0c3 socialcalc/images/sc-bordersoff.gif
+SHA1 13dd63c942cf472ef1aa8e232ffc8ae6d664d688 socialcalc/images/sc-borderson.gif
+SHA1 9c5fe4d1e1b6595a09aa875877d7df209d416ef9 socialcalc/images/sc-chooserarrow.gif
+SHA1 3959ad5e5edcb70de0183f52421374cd75d8d421 socialcalc/images/sc-commentbg.gif
+SHA1 c453f7b13735e017368f29f3d10897f5cfa5389b socialcalc/images/sc-copy.gif
+SHA1 2f031a322c6328571660fad54ba58e3731da6ca0 socialcalc/images/sc-cursorinsertleft.gif
+SHA1 2f031a322c6328571660fad54ba58e3731da6ca0 socialcalc/images/sc-cursorinsertup.gif
+SHA1 91d71c4ddbff273ae782af77e5f6556f13d3e7d5 socialcalc/images/sc-cut.gif
+SHA1 99d5dc13cd5c143ba6ce43f1fd05f60eb7a66468 socialcalc/images/sc-defaultcolor.gif
+SHA1 a5d13bb226f4899a5c13d08bb67a7faac145f852 socialcalc/images/sc-delete.gif
+SHA1 74579963b7fecb87bea9f63f63f33b11af02bbef socialcalc/images/sc-deletecol.gif
+SHA1 1e68e1fda153e344e8f873c6f1fdd03623aa4a55 socialcalc/images/sc-deleterow.gif
+SHA1 543d58f02e011bea166e304e4995ed590b0a670c socialcalc/images/sc-divider1.gif
+SHA1 5f56359877e25e65e1181937ac3485124cb5fe0b socialcalc/images/sc-endcap-h.gif
+SHA1 d93c4a0250ed36dfeca57df40ab9d4017aaba245 socialcalc/images/sc-endcap-v.gif
+SHA1 5d3adaa3bea5909049bca1d3cb86b1b02ecb91cd socialcalc/images/sc-filldown.gif
+SHA1 42044283321fd1d8fcc5a6550ac46c5c587f72fa socialcalc/images/sc-fillright.gif
+SHA1 8a1f8e246e41592e46b6db73133e421465609e75 socialcalc/images/sc-formuladialog.gif
+SHA1 96108870f2f715e0c931f540c7e4646073bbeab6 socialcalc/images/sc-insertcol.gif
+SHA1 ab2a20a0abb68ed9ec736d29c05d44fea2e5d5a1 socialcalc/images/sc-insertrow.gif
+SHA1 e196a13da79ba969b59872822ebc14f199bef410 socialcalc/images/sc-less-hd.gif
+SHA1 c54674da6d58dfe1b875e778ca00fe3163aa4b2a socialcalc/images/sc-less-hh.gif
+SHA1 09c73f2f080ee27107b262879a2e38f7f2e21800 socialcalc/images/sc-less-hn.gif
+SHA1 ed1160a06ddcbc552a6b9fefd08dfd40856debf0 socialcalc/images/sc-less-vd.gif
+SHA1 c65e5c237dd668ef488f4839d02a7a24e77263c3 socialcalc/images/sc-less-vh.gif
+SHA1 4e193e88a873a5a438e80e7881389a5fe9c1b8d2 socialcalc/images/sc-less-vn.gif
+SHA1 e604556760af2c925ab3fc3a441d8a24ed3821aa socialcalc/images/sc-linkdialog.gif
+SHA1 5b85af1f972c962202af04cee295bd0c5acc8148 socialcalc/images/sc-linkout.gif
+SHA1 0068175bdfe282a9c59b6b8ef1b7a9215c095203 socialcalc/images/sc-logo.gif
+SHA1 ea184a40b78f264b9d57fe25c537ae75d74ccd09 socialcalc/images/sc-main-h.gif
+SHA1 62b5c55853455d55f595065362fd1216b887caa8 socialcalc/images/sc-main-v.gif
+SHA1 30b4a002f2c70b9209c519dc7a71267ee32e52ff socialcalc/images/sc-merge.gif
+SHA1 41d47ce64e57868a2d99799410127f97a6e4825d socialcalc/images/sc-more-hd.gif
+SHA1 b11ec88249e3a4ce09ecc2c31a3a89a1223ecd9d socialcalc/images/sc-more-hh.gif
+SHA1 a2996d021a379e8757a932c30f8ee65ed9e637af socialcalc/images/sc-more-hn.gif
+SHA1 ac4606cbc20dbe20655cd05c8550164d6966e482 socialcalc/images/sc-more-vd.gif
+SHA1 181948ee642b64d813acc4cea8b0f91751d216a7 socialcalc/images/sc-more-vh.gif
+SHA1 56a7f367691f8b02a58fb6078d00102ec0da8e74 socialcalc/images/sc-more-vn.gif
+SHA1 c53a1e9c10327910f4ae183419a95f0e2cfacc9a socialcalc/images/sc-movefrom.gif
+SHA1 9752572abd20edc25322b40f6fc3234ce200a284 socialcalc/images/sc-movefromoff.gif
+SHA1 760bb97f55dc1190ccc7d066e74316c7afa8d2a9 socialcalc/images/sc-moveinsert.gif
+SHA1 261389f12fbfcd53f28144cacf3e0c538117c488 socialcalc/images/sc-moveinsertoff.gif
+SHA1 8eef6ae8180859fc5faa7819577f6d0c5c0221a0 socialcalc/images/sc-movepaste.gif
+SHA1 e373bfabfd90fad324b879c0bc2a3b864e669567 socialcalc/images/sc-movepasteoff.gif
+SHA1 9526f70397e6cb02c4ac131655e13ec21b1ee6b0 socialcalc/images/sc-multilinedialog.gif
+SHA1 05e618c05dd56c44680ee3e652282b934c2decab socialcalc/images/sc-paneslider-h.gif
+SHA1 93b4d7751073aa05025fc5bfcd3d62758b2f550e socialcalc/images/sc-paneslider-v.gif
+SHA1 6ac30e8c9f5d5b24f5a3814f0e5f8fc1e9540634 socialcalc/images/sc-paste.gif
+SHA1 e8250f3306148e20f19119458a2b339287b858f3 socialcalc/images/sc-pasteformats.gif
+SHA1 2a07f90e5af5903aa3d3514256bfc98fa9319d5e socialcalc/images/sc-peerbg.gif
+SHA1 99d5dc13cd5c143ba6ce43f1fd05f60eb7a66468 socialcalc/images/sc-range2.gif
+SHA1 fd1812289f9f7fd29a3f6d6d2d963f5b1f2e273f socialcalc/images/sc-recalc.gif
+SHA1 df62ffb4a9cbe36575d89a3702cf7176e4fcd1fc socialcalc/images/sc-redo.gif
+SHA1 04eb526a0497744d14da3efbc6c3069f662617a5 socialcalc/images/sc-scrollarea-h.gif
+SHA1 683ec77975e94ae958bf24467a9a22aabc70e01c socialcalc/images/sc-scrollarea-v.gif
+SHA1 4025d105b8c903f8a5ff092429610da5eb6c721b socialcalc/images/sc-sumdialog.gif
+SHA1 0667570f99a8056664fe6ef893800774b3de7109 socialcalc/images/sc-swapcolors.gif
+SHA1 25d0d6b44d4d1ba3019d0c3c5a6e831b1b5a502a socialcalc/images/sc-thumb-hd.gif
+SHA1 d732514f87efd46b99f6fbba6bd2d8c471160bab socialcalc/images/sc-thumb-hh.gif
+SHA1 2d2ff5721f934cde5444a6b0250326cee26a5d21 socialcalc/images/sc-thumb-hn.gif
+SHA1 6f46963db950e2ac9a286c2e0cab90275ec0afc2 socialcalc/images/sc-thumb-vd.gif
+SHA1 9809ee5e9803f1050cccd75e54f449e96dbad6fc socialcalc/images/sc-thumb-vh.gif
+SHA1 c96e9f42ccd3361bfa29fb42dd66b7b3cb878124 socialcalc/images/sc-thumb-vn.gif
+SHA1 0e22b58af73b395172f75e525e20c2089e725c35 socialcalc/images/sc-trackingline-h.gif
+SHA1 7b1a2f008803dee01915eeb81f56516e937d6bf6 socialcalc/images/sc-trackingline-v.gif
+SHA1 f2322c12a84c985e97231acac8a131fbf25be550 socialcalc/images/sc-undo.gif
+SHA1 7244315be7c7b0724aa2fb4ce611a87c74f4a5e6 socialcalc/images/sc-unmerge.gif
+SHA1 9321f4684dfec65acd603f5f2c65bdfde1355259 socialcalc/images/sc-wikiflag.gif
+SHA1 461fb13496d8db5a25d499e86c4fd5d01a330b74 socialcalc/images/sc-wikilinkflag.gif
+SHA1 49945b3e4561a5cdf5d2ead16c5c7e782ba7d5c0 socialcalc/index.css
+SHA1 c195ca925fa26d1e4ceb91c12aa51113abcca8ff socialcalc/index.html
+SHA1 9e0cb34bd071b2d3a66c07b08162ad919a09919f socialcalc/multiplayer.js
+SHA1 1dc52e616352022d359d4127efd5b56a1cbffa12 socialcalc/multiserver.pl
+SHA1 b63e9c822152e5e83a30ef1e2c8a760e94e2d6f0 socialcalc/simpleedit14.pl
+SHA1 5c13577021aa54fa567f09291a7f24332863e9da socialcalc/simpleedit15.pl
+SHA1 fb5ed6e504bac1ada88855d4f167e5ac288ff41d socialcalc/socialcalc-3.js
+SHA1 59d02be400c57946896a2b6295adf88284b14a44 socialcalc/socialcalc.css
+SHA1 85a792e00842a50db052a29da4971765e6b6ab67 socialcalc/socialcalc2demo-0-8-1.html
+SHA1 43e792d60de1024ef32772c21f587087863045f9 socialcalc/socialcalc2demo10.html
+SHA1 af6409bcc87b86826c8e62a2e95dba6cc628e6d1 socialcalc/socialcalcconstants.js
+SHA1 c331d9134dc6fe1bb3f0694980c83c71be1cf9ee socialcalc/socialcalcpopup.js
+SHA1 0bb9714a6a30c7a7a53550069508db741cad3d81 socialcalc/socialcalcserver.pl
+SHA1 fa0352ebe94a36c3e811d9d807f912666be90f28 socialcalc/socialcalcspreadsheetcontrol.js
+SHA1 f2a57042a8b1f3797c0afde83a000b83c82f4c2f socialcalc/socialcalctableeditor.js
+SHA1 5de5b25266fd0df387fa97fdec7b075118936036 socialcalc/ssctrltest1.html
+SHA1 07421c216a2024548ff535d042d8cbb4830a8c65 socialcalc/third-party/class-js/README
+SHA1 17b65e5e314d273c0c12029593c931f3161cc2a0 socialcalc/third-party/class-js/lib/Class.js
+SHA1 412d0fe8daaa62e1e39994639cf96ed663b888f4 socialcalc/third-party/tatsumaki/DUI.js
+SHA1 6d1012b1c0c8f5c452c452bf56adb224cb08f9f0 socialcalc/third-party/tatsumaki/Stream.js
+SHA1 3dc9f7c2642efff4482e68c9d9df874bf98f5bcb socialcalc/third-party/tatsumaki/jquery-1.3.2.min.js
+SHA1 014882baf0ac164797a8f1d30a7bdededad3f9e2 socialcalc/third-party/tatsumaki/jquery.cookie.js
+SHA1 8060f6796e124e1201e1ea79466ee61604839c43 socialcalc/third-party/tatsumaki/jquery.ev.js
+SHA1 3b3edb565f76e55e6185fa7f45a9cd4a00b50b13 socialcalc/third-party/tatsumaki/jquery.md5.js
+SHA1 7aa6cf835056fade03583f1590ab6f20d8070322 socialcalc/third-party/tatsumaki/jquery.oembed.js
+SHA1 b312fdb8344d7cf4b4aebb1b8b6a235008e271a5 socialcalc/third-party/wikiwyg/LICENSE
+SHA1 20000399354372855f711aa0f8401aa19a007129 socialcalc/third-party/wikiwyg/lib/Document/Emitter.js
+SHA1 4f9e08802b9b5ba11129b01fb32777d6aa9f51d6 socialcalc/third-party/wikiwyg/lib/Document/Emitter/ByteCode.js
+SHA1 c189753d0bff02ff963d42e47be1f7c546e1b52c socialcalc/third-party/wikiwyg/lib/Document/Emitter/HTML.js
+SHA1 ef2b45c55f434ba64186a073e5ce66204fd0fa37 socialcalc/third-party/wikiwyg/lib/Document/Parser.js
+SHA1 688466e91bed77a864e1c4851ffe197c7ef2f582 socialcalc/third-party/wikiwyg/lib/Document/Parser/Wikitext.js
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (Darwin)
+
+iEYEARECAAYFAksEJEMACgkQtLPdNzw1AaC/pwCfRPCmYSx6FVOcWdSP+HPL9Rz0
+wmUAoJ+XqrfBfiEqodLDATQqbR9zZeKc
+=K9iQ
+-----END PGP SIGNATURE-----

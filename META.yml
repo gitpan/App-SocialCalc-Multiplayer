@@ -20,7 +20,7 @@ no_index:
 requires:
   File::ShareDir: 0
   Tatsumaki: 0
-  perl: 5.6.0
+  perl: 5.8.0
 resources:
   repository: http://github.com/audreyt/socialcalc
-version: 20091118
+version: 20091119

@@ -15,9 +15,9 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 45945c6871e8c5df520831dc2a1007fe67de864c MANIFEST
-SHA1 472c0c9e163ae5e279701541dca080151c94afc2 META.yml
+SHA1 1ebabf74876315dd7ce5975e5d6a41b341615588 META.yml
 SHA1 4f1ba7eb104c8469e90b52218d434071434cf267 Makefile.PL
-SHA1 0760e46baace22811b7a3e77ec20df8011a24654 Multiplayer.pm
+SHA1 f90b972b14cddac5f7d539537fd63d3bbcc86f9e Multiplayer.pm
 SHA1 6dad0d7555eed30eec0d90337813bb67bb471114 README
 SHA1 fd5f3c4f0418efee3b9b16cf8c3902e8374909df inc/Module/Install.pm
 SHA1 7cd7c349afdf3f012e475507b1017bdfa796bfbd inc/Module/Install/Base.pm
@@ -40,7 +40,7 @@ SHA1 cdf8fc068c03b82066f45e81927a530a47b1199e socialcalc/TODO
 SHA1 afad6febc477b93acf4b71b6551b49f510f52d68 socialcalc/cpan/MANIFEST
 SHA1 472c0c9e163ae5e279701541dca080151c94afc2 socialcalc/cpan/META.yml
 SHA1 4f1ba7eb104c8469e90b52218d434071434cf267 socialcalc/cpan/Makefile.PL
-SHA1 0760e46baace22811b7a3e77ec20df8011a24654 socialcalc/cpan/Multiplayer.pm
+SHA1 f90b972b14cddac5f7d539537fd63d3bbcc86f9e socialcalc/cpan/Multiplayer.pm
 SHA1 1c3f1d7295789856488ca8d4919830769e98522d socialcalc/docs/hopscotch-yapctiny.txt
 SHA1 5c80a4137a24b748b342c241ce80ae9e22e06489 socialcalc/formatnumber2.js
 SHA1 7a6d3ef7be359dee81fcffdd239788c89e269d55 socialcalc/formula1.js
@@ -151,7 +151,7 @@ SHA1 688466e91bed77a864e1c4851ffe197c7ef2f582 socialcalc/third-party/wikiwyg/lib
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (Darwin)
 
-iEYEARECAAYFAksEJEMACgkQtLPdNzw1AaC/pwCfRPCmYSx6FVOcWdSP+HPL9Rz0
-wmUAoJ+XqrfBfiEqodLDATQqbR9zZeKc
-=K9iQ
+iEYEARECAAYFAksEJrgACgkQtLPdNzw1AaBFHgCfRtw9h9gA/sNiq8UuGcQKoH9W
+TlEAoIo46E3QmjGe+lTGXN6ip9mBY4U0
+=InZc
 -----END PGP SIGNATURE-----

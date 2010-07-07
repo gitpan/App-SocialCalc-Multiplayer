@@ -14,11 +14,11 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 eb1edc7a8891bd70560c25ea9b91c43847ab0759 MANIFEST
-SHA1 6b9a96f3a3c2253898d969ab8653823dcb14787b META.yml
-SHA1 931be6f17a2f75be106f84f5849f02fe8a1855ec Makefile.PL
-SHA1 c9a62f6de7a913c03704d7edb1081edc6a4d605e Multiplayer.pm
-SHA1 e42fab4cc85b07457726a8202f4074bf382b41a4 README
+SHA1 53fd52b9d1971d5f7a1a07e7915fa16503450422 MANIFEST
+SHA1 c66bdddd09a446fd08fa38d89bd955ba6160ec95 META.yml
+SHA1 7c2acf5327e2f4a707ea88b0ded0f905752b9e8f Makefile.PL
+SHA1 67af4d7d57c0ace8d722d26e7c580ad7bbae2963 Multiplayer.pm
+SHA1 764d9a9830edddf0362c92aa3e59b1d5d391f497 README
 SHA1 682537493a9ac7e5380fe0317227966c398aaf21 inc/Module/Install.pm
 SHA1 b57260c9f8addb4db719073b198313c5fa93fd15 inc/Module/Install/Base.pm
 SHA1 dd8428fbee604b485c70ca2e67458c52207d9c87 inc/Module/Install/Can.pm
@@ -30,19 +30,19 @@ SHA1 40a7017923b21bfc5ed415e804c7b5fa192c8fa6 inc/Module/Install/Scripts.pm
 SHA1 90d3fefddd5c3489d0741980a21bb267f815872f inc/Module/Install/Share.pm
 SHA1 926823a948aad6c8df6b5848640c92d1a98bbadf inc/Module/Install/Win32.pm
 SHA1 f3945158d30a5a53986d6a61cd27c4542c4deb2c inc/Module/Install/WriteAll.pm
-SHA1 0df6419f95702ff89f3f83e4c2c5bc390d988f4b socialcalc-multiplayer.pl
+SHA1 445acacb7e1f377759041ed6d0e49bb385aa67c9 socialcalc-multiplayer.pl
 SHA1 8cdd59626ab8eff5767f5e5be0ea8fc358e472db socialcalc/Changes.txt
 SHA1 fed6cf66e48fc4b487536ea2fd7192488400e01d socialcalc/LEGAL.txt
 SHA1 cf2b05f1827c020d6ea7759580e201adcb870f4f socialcalc/LICENSE.txt
-SHA1 a8f859f34c45cd29a5e50b38523fe651535d75c2 socialcalc/README
+SHA1 fcf5c9bc43737c64847c9bce85ad9f05f49bd20c socialcalc/README
 SHA1 18f966d905971c40580f86fdf53a676e9f94c1da socialcalc/SocialCalcServersideUtilities.pm
 SHA1 cdf8fc068c03b82066f45e81927a530a47b1199e socialcalc/TODO
 SHA1 bca72d947614146d98a17c91c2e9ef4f4fc84f11 socialcalc/app.psgi
-SHA1 8d45690f0011658d7ad365df3530b62f0a178df2 socialcalc/cpan/MANIFEST
+SHA1 46adb6e64ae08d7dc742c66a6387bc949eca445a socialcalc/cpan/MANIFEST
 SHA1 fe5c32beda2b7a5f2344f0397ea0c4c8a96f3d98 socialcalc/cpan/META.yml
-SHA1 931be6f17a2f75be106f84f5849f02fe8a1855ec socialcalc/cpan/Makefile.PL
-SHA1 c9a62f6de7a913c03704d7edb1081edc6a4d605e socialcalc/cpan/Multiplayer.pm
-SHA1 0df6419f95702ff89f3f83e4c2c5bc390d988f4b socialcalc/cpan/socialcalc-multiplayer.pl
+SHA1 7c2acf5327e2f4a707ea88b0ded0f905752b9e8f socialcalc/cpan/Makefile.PL
+SHA1 67af4d7d57c0ace8d722d26e7c580ad7bbae2963 socialcalc/cpan/Multiplayer.pm
+SHA1 445acacb7e1f377759041ed6d0e49bb385aa67c9 socialcalc/cpan/socialcalc-multiplayer.pl
 SHA1 1c3f1d7295789856488ca8d4919830769e98522d socialcalc/docs/hopscotch-yapctiny.txt
 SHA1 e342f866ca8851b0b0c95dbe08206d6c4bdb56fc socialcalc/formatnumber2.js
 SHA1 7a6d3ef7be359dee81fcffdd239788c89e269d55 socialcalc/formula1.js
@@ -122,9 +122,9 @@ SHA1 7244315be7c7b0724aa2fb4ce611a87c74f4a5e6 socialcalc/images/sc-unmerge.gif
 SHA1 9321f4684dfec65acd603f5f2c65bdfde1355259 socialcalc/images/sc-wikiflag.gif
 SHA1 461fb13496d8db5a25d499e86c4fd5d01a330b74 socialcalc/images/sc-wikilinkflag.gif
 SHA1 49945b3e4561a5cdf5d2ead16c5c7e782ba7d5c0 socialcalc/index.css
-SHA1 2e04685e2e331f59e7cbf5d1c598d3cba8decba1 socialcalc/index.mt
-SHA1 62cc1a4a1645288df75a705fae93b51db03963ae socialcalc/multiserver.pl
-SHA1 755a16679a1f8cd0537c7e4e98faeaea75a0cd6b socialcalc/player.js
+SHA1 743a80f2168ddfb2f758c09345e2f35c54074c48 socialcalc/index.mt
+SHA1 f6b0f541d7396e603c3c8faf233e2cf9f67f01cd socialcalc/multiserver.pl
+SHA1 41067718d61f530b76a1df9146b884599ae33b56 socialcalc/player.js
 SHA1 b63e9c822152e5e83a30ef1e2c8a760e94e2d6f0 socialcalc/simpleedit14.pl
 SHA1 5c13577021aa54fa567f09291a7f24332863e9da socialcalc/simpleedit15.pl
 SHA1 6c9302b0334cff59a27fb0c24b5d41652a5965ca socialcalc/socialcalc-3.js
@@ -137,6 +137,7 @@ SHA1 3d760f41fd2e70bce2936a172f6976b937f6db36 socialcalc/socialcalcserver.pl
 SHA1 955f88123748bf66582ca397c93169caff7a1fa5 socialcalc/socialcalcspreadsheetcontrol.js
 SHA1 54dfcd0965d45e41119069e62454b1e89bfa1fb8 socialcalc/socialcalctableeditor.js
 SHA1 f15b8060816f4a0dad4bedd4a972dbdb34ce81e2 socialcalc/socialcalcviewer.js
+SHA1 cad4d5f6c7975f43f24b2cc7a34b00c69d8b6b12 socialcalc/socketpolicy.pl
 SHA1 5de5b25266fd0df387fa97fdec7b075118936036 socialcalc/ssctrltest1.html
 SHA1 07421c216a2024548ff535d042d8cbb4830a8c65 socialcalc/third-party/class-js/README
 SHA1 17b65e5e314d273c0c12029593c931f3161cc2a0 socialcalc/third-party/class-js/lib/Class.js
@@ -157,7 +158,7 @@ SHA1 688466e91bed77a864e1c4851ffe197c7ef2f582 socialcalc/third-party/wikiwyg/lib
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (Darwin)
 
-iEYEARECAAYFAkwzzQQACgkQtLPdNzw1AaDVOgCgquMKcRhymz/xLMhWE2egBruk
-ggwAn3fPNkOtplWhlAAU+sNidYwvYax6
-=w0eK
+iEYEARECAAYFAkw0ygwACgkQtLPdNzw1AaBcegCbB13REbl1v4f32rIwKp8G4t8l
+HYIAoK6LmQ3NkBLpmxsR/Ob2xlVNhXkS
+=2agL
 -----END PGP SIGNATURE-----

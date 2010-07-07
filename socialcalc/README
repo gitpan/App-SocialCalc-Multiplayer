@@ -1,26 +1,29 @@
                                 -=[Multiplayer Socialcalc]=-
 
-  >> See also docs/hopscotch-yapctiny.pdf for my YAPC::Tiny slides on this project. <<
+  >> See also http://pugs.blogs.com/talks/hopscotch-yapctiny.pdf for YAPC::Tiny slides on this project. <<
 
                                 .oO( Setup Instructions )Oo.
 
-0. Install Web::Hippie:
+0. Install Web::Hippie, JSON::XS, Twiggy, Text::MicroTemplate::File and Path::Class:
 
     sudo cpan
-    cpan> notest install Web::Hippie
+    cpan> notest install Web::Hippie JSON::XS Twiggy Text::MicroTemplate::File Path::Class
 
 1. Then check out this project and run the stand-alone server:
 
     git clone git://github.com/audreyt/socialcalc.git
+
     cd socialcalc
     perl multiserver.pl
 
-2. Open port 9999 in multiple browsers.  See red triangles representing peer cursor.
+2. Open port 9999 in multiple browsers with WebSocket support.
+
+3. See red triangles representing peer cursors.
    Type in a browser, appears in all others!
 
-Currently tested: Safari4, Firefox3, Firefox2 (with trailing cursor bug - see TODO).
-
-Not verified yet: IE.
+Browsers currently tested:
+    Native WebSocket: Safari 5, Chrome 5, Firefox 4 beta1.
+    Flash emulation: Firefox 3, Opera 10.
 
 Share & Enjoy!
 Audrey

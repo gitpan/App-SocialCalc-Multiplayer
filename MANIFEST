@@ -17,11 +17,6 @@ README
 socialcalc-multiplayer.pl
 socialcalc/app.psgi
 socialcalc/Changes.txt
-socialcalc/cpan/Makefile.PL
-socialcalc/cpan/MANIFEST
-socialcalc/cpan/META.yml
-socialcalc/cpan/Multiplayer.pm
-socialcalc/cpan/socialcalc-multiplayer.pl
 socialcalc/docs/hopscotch-yapctiny.txt
 socialcalc/formatnumber2.js
 socialcalc/formula1.js

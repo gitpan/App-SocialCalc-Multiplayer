@@ -1,13 +1,13 @@
                                 -=[Multiplayer Socialcalc]=-
 
-  >> See also http://pugs.blogs.com/talks/hopscotch-yapctiny.pdf for YAPC::Tiny slides on this project. <<
+  >> See https://github.com/audreyt/socialcalc/wiki for an upcoming book chapter on this project! <<
 
                                 .oO( Setup Instructions )Oo.
 
-0. Install Web::Hippie, JSON::XS, Feersum, Text::MicroTemplate::File and Path::Class:
+0. Install JSON, Fliggy, Protocol::WebSocket and Try::Tiny:
 
     sudo cpan
-    cpan> notest install Web::Hippie JSON::XS Feersum Text::MicroTemplate::File Path::Class
+    cpan> notest install JSON Fliggy Protocol::WebSocket Try::Tiny
 
 1. Then check out this project and run the stand-alone server:
 
